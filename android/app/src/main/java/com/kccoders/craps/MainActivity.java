@@ -1,4 +1,4 @@
-package co.appbrewery.dicee;
+package com.kccoders.craps;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

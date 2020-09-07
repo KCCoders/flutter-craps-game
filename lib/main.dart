@@ -111,11 +111,13 @@ class _DicePageState extends State<DicePage> {
               children: <Widget>[
                 Expanded(
                   child: FlatButton(
+                    onPressed: null,
                     child: Image.asset('images/dice$leftDie.png'),
                   ),
                 ),
                 Expanded(
                   child: FlatButton(
+                    onPressed: null,
                     child: Image.asset('images/dice$rightDie.png'),
                   ),
                 ),
